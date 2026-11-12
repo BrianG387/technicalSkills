@@ -13,6 +13,6 @@ public class loops {
         else {
             System.out.println("You entered: " + num);   
         }
+        scan.close();
     }
 }
-    

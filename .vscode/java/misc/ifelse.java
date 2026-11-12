@@ -14,5 +14,6 @@ public class ifelse {
         else {
             System.out.println("You entered: " + num);
         }
+        scan.close();
     }
 }
